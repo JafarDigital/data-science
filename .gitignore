@@ -6,6 +6,8 @@ include/
 share/
 pyvenv.cfg
 
+datasets/*.csv
+
 # Ignore common Python artifacts
 __pycache__/
 *.py[cod]
